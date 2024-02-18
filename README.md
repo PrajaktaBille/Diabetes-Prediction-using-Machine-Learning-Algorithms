@@ -17,6 +17,20 @@ which machines learn from experience. The aim of this project is to develop a
 system which can perform early prediction of diabetes for a patient with a
 higher accuracy by combining the results of different machine learning
 techniques. 
+#### Dataset Features:
+In particular, all patients here are females at least 21 years old of Pima Indian heritage.
+
+* Pregnancies: Number of times pregnant
+* Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+* BloodPressure: Diastolic blood pressure (mm Hg)
+* SkinThickness: Triceps skin fold thickness (mm)
+* Insulin: 2-Hour serum insulin (mu U/ml)
+* BMI: Body mass index (weight in kg/(height in m)^2)
+* DiabetesPedigreeFunction: Diabetes pedigree function
+* Age: Age (years)
+* Outcome: Class variable (0 or 1)
+
+
 
 
 
