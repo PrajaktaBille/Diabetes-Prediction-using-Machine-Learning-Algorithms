@@ -1,5 +1,5 @@
 # Diabetes-Prediction-using-Machine-Learning-Algorithms
-Introduction:
+### Introduction:
     Diabetes is a chronic disease with the potential to cause a worldwide health
 care crisis.
   Diabetes is a disease caused due to the increase level of blood
