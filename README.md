@@ -1,8 +1,8 @@
 # Diabetes-Prediction-using-Machine-Learning-Algorithms
 ### Introduction:
-      Diabetes is a chronic disease with the potential to cause a worldwide health
+Diabetes is a chronic disease with the potential to cause a worldwide health
 care crisis.
-      Diabetes is a disease caused due to the increase level of blood
+Diabetes is a disease caused due to the increase level of blood
 glucose. This high blood glucose produces the symptoms of frequent urination,
 increased thirst, and increased hunger. Diabetes is a one of the leading cause of
 blindness, kidney failure, amputations, heart failure and stroke. When we eat,
